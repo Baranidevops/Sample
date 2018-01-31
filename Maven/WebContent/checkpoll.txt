@@ -1,2 +1,4 @@
 new file to checkpoll
 new linec
+
+Adding new line to check poll scm for auto tigger
